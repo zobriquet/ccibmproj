@@ -2,7 +2,9 @@
 
 ## Getting Started
 
-TO get this working offline on mac these are the pre requisites
+code might not work as is needs to be put in a wider folder called britishMuseumPrototype
+
+To get this working offline on mac these are the pre requisites
 have node.js installed
 enter the file in terminal with the command cd "blah/blah/britishMuseumPrototype"
 then run npx-install to get the missing node files
